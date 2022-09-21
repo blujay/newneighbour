@@ -1,5 +1,14 @@
 # New Neighbour
 
+## Story 
+https://docs.google.com/document/d/1odMaYnIsCr9xT7w8lf1RdEppcVUIiUZvxR8cYVfWTM0/edit
+
+## Presentation
+https://www.canva.com/design/DAFM3GhyVJw/N9jeUAzH-P4_yOvN4Wn1LA/view?utm_content=DAFM3GhyVJw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+
+## VR setup
+
 This template comes pre-configured with Universal Render Pipeline (URP), Multiplayer Quest Template, settings configuration and Holoncore. You will then need to install some packages. I'm using Unity version 2020 (LTS)
 
 - Clone this repository (I find Github desktop fairly easy) https://desktop.github.com/
