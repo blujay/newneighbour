@@ -1,6 +1,5 @@
-# holonspace-multiplayer-start-project
+# New Neighbour
 
-Starting from a template
 This template comes pre-configured with Universal Render Pipeline (URP), Multiplayer Quest Template, settings configuration and Holoncore. You will then need to install some packages. I'm using Unity version 2020 (LTS)
 
 - Clone this repository (I find Github desktop fairly easy) https://desktop.github.com/
