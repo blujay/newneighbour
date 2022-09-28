@@ -1,4 +1,6 @@
-# New Neighbour
+# Gorba (Uprooted)
+
+![uprooted-inverted](https://user-images.githubusercontent.com/1101918/192806408-1235c124-f8f6-42df-aff8-e1966859f3d1.png)
 
 ## Story 
 https://docs.google.com/document/d/1odMaYnIsCr9xT7w8lf1RdEppcVUIiUZvxR8cYVfWTM0/edit
@@ -6,8 +8,13 @@ https://docs.google.com/document/d/1odMaYnIsCr9xT7w8lf1RdEppcVUIiUZvxR8cYVfWTM0/
 ## Presentation
 https://www.canva.com/design/DAFM3GhyVJw/N9jeUAzH-P4_yOvN4Wn1LA/view?utm_content=DAFM3GhyVJw&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
+## Video trailer
+https://www.youtube.com/watch?v=KSfRa1DVg-I
 
 ## VR setup
+
+You can run an instance of this project in Unity yourself if you like. 
+Follow these instructions to install Oculus Integration as well as Photon Pun 2. 
 
 This template comes pre-configured with Universal Render Pipeline (URP), Multiplayer Quest Template, settings configuration and Holoncore. You will then need to install some packages. I'm using Unity version 2020 (LTS)
 
@@ -34,24 +41,5 @@ You will need to connect your Quest at this point.
 - Save Unity Project (settings might not be saved otherwise)
 - RESTART UNITY (seems to make a difference when things seem weird)
 - Press Play on editor - you should see the test room after brief ‘connecting’ message
-
-
-## Test in Oculus Quest from Unity Editor (PC only)
-- Connect Quest to PC via Oculus link cable or Air link. 
-- Hit Play - you should see the scene. 
-
-### Things to test
-- Inkibit Connecting… shows up on screen
-- Demo scene loads up with a table and cube on it
-- You can see your hands
-- You can move around using joystick on left controller
-- You can rotate with joystick on right controller
-- You can grab the cube from table and clone using right controller trigger while grabbing
-- The cloned cubes will be static whilst the original has gravity
-- Pressing the exit button on side takes you briefly to lobby and back againi
-
-# Making Holons
-- new URP instructions coming...
-Get in touch at mafj.inkibit@rootinteractive.com to ask for old ones and we'll send you a link
 
 
