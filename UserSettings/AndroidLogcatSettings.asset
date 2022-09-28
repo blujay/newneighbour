@@ -1,9 +1,9 @@
 {
     "m_SelectedDeviceId": "1WMHHB61HC2124",
     "m_SelectedPackage": {
-        "deviceId": "1WMHHB61HC2124",
-        "name": "com.inkibit.Gorba01",
-        "processId": 4915,
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
         "exited": false
     },
     "m_SelectedPriority": 0,
@@ -55,12 +55,6 @@
             "name": "com.Inkibit.HolonspaceStarter",
             "processId": 11801,
             "exited": false
-        },
-        {
-            "deviceId": "1WMHH820RN0395",
-            "name": "com.DefaultCompany.MultiplayerURPstarterproject",
-            "processId": 13913,
-            "exited": true
         },
         {
             "deviceId": "1WMHH820RN0395",
@@ -129,6 +123,18 @@
             "exited": false
         },
         {
+            "deviceId": "1WMHH820RN0395",
+            "name": "com.inkibit.Gorba01",
+            "processId": 4981,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH820RN0395",
+            "name": "com.inkibit.Gorba01",
+            "processId": 6186,
+            "exited": false
+        },
+        {
             "deviceId": "1WMHH8465H1014",
             "name": "com.inkibit.MultiplayerURPstarterproject",
             "processId": 21028,
@@ -173,7 +179,31 @@
         {
             "deviceId": "1WMHHB61HC2124",
             "name": "com.inkibit.Gorba01",
-            "processId": 4915,
+            "processId": 11826,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHHB61HC2124",
+            "name": "com.inkibit.Gorba01",
+            "processId": 12996,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHHB61HC2124",
+            "name": "com.inkibit.Gorba01",
+            "processId": 13575,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHHB61HC2124",
+            "name": "com.inkibit.Gorba01",
+            "processId": 14951,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHHB61HC2124",
+            "name": "com.oculus.shellenv",
+            "processId": 2143,
             "exited": false
         }
     ],
